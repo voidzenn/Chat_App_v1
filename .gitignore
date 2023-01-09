@@ -1,0 +1,12 @@
+# VSCode history
+.history/
+/server/.history/
+/client-chat/.history/
+
+# node_modules
+/server/node_modules
+/client-chat/node_modules
+
+# package-lock.json
+/server/package-lock.json
+/client-chat/package-lock.json
